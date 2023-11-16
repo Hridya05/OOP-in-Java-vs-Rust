@@ -1,6 +1,5 @@
----
-title: "Title: Comparison of Tic-Tac-Toe Game in Java and Rust"
----
+# Comparison of Tic-Tac-Toe Game in Java and Rust"
+
 
 In this presentation, we will compare the implementation of a simple
 Tic-Tac-Toe game in two different programming languages: Java and Rust.
