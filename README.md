@@ -1,7 +1,16 @@
+# Comparing aspects of Object oriented programming in Java and Rust
+
+This project aims at drawing a parallel between Java and Rust and discovering the capabilities Rust for Object oriented programming.
+
+Project submitted in partial fulfillment of the course CS F301 by group number -- by the following members:
+Hridya Arora (2021A7PS2538G)
+Pathik Shah (2021A7PS2085G)
+Krishna Sethiya (2021A7PS1440G)
+
 # Comparison of Tic-Tac-Toe Game in Java and Rust"
 
 
-In this presentation, we will compare the implementation of a simple
+We will compare the implementation of a simple
 Tic-Tac-Toe game in two different programming languages: Java and Rust.
 While the game\'s logic and functionality remain the same, the two
 languages exhibit differences in syntax, structure, language constructs
