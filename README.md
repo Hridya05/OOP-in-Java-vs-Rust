@@ -2,7 +2,7 @@
 
 This project aims at drawing a parallel between Java and Rust and discovering the capabilities Rust for Object oriented programming.
 
-Project submitted in partial fulfillment of the course CS F301 by group number -- by the following members:
+Project submitted in partial fulfillment of the course CS F301 by group number -- constituting of the following members:
 Hridya Arora (2021A7PS2538G)
 Pathik Shah (2021A7PS2085G)
 Krishna Sethiya (2021A7PS1440G)
