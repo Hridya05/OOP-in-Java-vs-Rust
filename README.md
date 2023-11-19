@@ -1,6 +1,9 @@
 # Comparing aspects of Object oriented programming in Java and Rust
-
+Problem Statement - Comparative Analysis of Object-Oriented Programming Paradigms in Java and Rust while exploring workarounds for missing OOP pillars in rust. This project aims to conduct a comprehensive comparative analysis of the object-oriented programming aspects in Java and Rust to provide developers and decision-makers with insights into the strengths and weaknesses of each language in the context of OOP.
 This project aims at drawing a parallel between Java and Rust and discovering the capabilities Rust for Object oriented programming.
+
+A parallel has been drawn between java and rust through a program for a collection of games. The codebase is provided in both java and rust.
+
 
 Project submitted in partial fulfillment of the course CS F301 by group number -- constituting of the following members:
 Hridya Arora (2021A7PS2538G)
