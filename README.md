@@ -24,6 +24,12 @@ and programming paradigms.
 Java is a widely-used, object-oriented, and statically-typed language.
 It uses class-based inheritance and provides high-level abstractions.
 
+To compile the given code:
+
+``` javac Main.java ./*.java
+    java Main.class
+```
+
 # Rust:
 
 Rust is a systems programming language known for safety, performance,
