@@ -10,7 +10,7 @@ Hridya Arora (2021A7PS2538G)
 Pathik Shah (2021A7PS2085G)
 Krishna Sethiya (2021A7PS1440G)
 
-# Comparison of Tic-Tac-Toe Game in Java and Rust"
+# Comparison of Terminal based Games in Java and Rust"
 
 
 We will compare the implementation of a simple
@@ -37,6 +37,12 @@ java Main.class
 Rust is a systems programming language known for safety, performance,
 and memory control. It promotes composition and trait-based polymorphism
 instead of class-based inheritance.
+
+```
+cargo new games
+cd /<path to folder made by cargo new>
+cargo build
+```
 
 
 |**JAVA**|**RUST**|
